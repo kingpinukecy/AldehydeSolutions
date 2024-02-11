@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Dec 2023 16:14:30 at https://outsourcing.britenet.eu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://outsourcing.britenet.eu/ -O1 "C:\Users\hp\Desktop\Aldehyde Solutions\Aldehyde Solutions" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:15:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://secure.intelligentcompanywisdom.com/780890.png
+16:16:20	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://outsourcing.britenet.eu/)
+16:17:34	Warning: 	Link https://outsourcing.britenet.eu/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-brands-400.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-duotone-900.eot (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-duotone-900.eot? (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-duotone-900.ttf (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-duotone-900.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-light-300.eot (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-light-300.eot? (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-light-300.ttf (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-light-300.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-regular-400.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/fonts/fa-solid-900.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/font-awesome.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/Flaticon.svg (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/flaticon-set.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/owl.video.play.png (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/owl.carousel.min.css?ver=6.4.1)
+16:17:34	Error: 	"Not Found" (404) at link https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/img/icon-shape003.png (from https://outsourcing.britenet.eu/wp-content/themes/tanda/tanda/css/style.css?ver=6.2.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 1 seconds : 241 links scanned, 225 files written (10493607 bytes overall) [7861517 bytes received at 43433 bytes/sec], 4657176 bytes transferred using HTTP compression in 96 files, ratio 29%, 18.5 requests per connection
+(15 errors, 2 warnings, 0 messages)

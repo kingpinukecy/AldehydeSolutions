@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.clutch.co	TRUE	/	FALSE	1999999999	__cf_bm	3IgaqkKtNQfnGxoXWQ4vWroww0Yz5QMFIz2gP6Rjcsc-1703690137-1-AS4Jv2tPjnxDZRnoWf2RMTQF0oA9NPOm4zpCt+VM0eL/syPNwX4ZmICnuYr2PN3rqGqs5x6Qcu7BXH9OE7yHJaQ=
+widget.clutch.co	TRUE	/	FALSE	1999999999	SameSite	None
+
